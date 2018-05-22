@@ -62,5 +62,5 @@ class Vending_Machine:
             cash_calculation()
             vending_items["Turkey Sandwich"] -=1
         else:
-            print "That is not a valid item.\n Please try again.\n"
+            print "That is not a valid item.\n Please try again."
 
